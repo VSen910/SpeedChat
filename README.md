@@ -1,4 +1,4 @@
-# chat_app2
+# Speed Chat
 
 A new Flutter project.
 
